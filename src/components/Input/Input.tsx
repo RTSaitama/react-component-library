@@ -112,7 +112,7 @@ export const Input: React.FC<InputProps> = ({
   );
 };
 
-// Demo Component
+ 
 export default function InputDemo() {
   const [textValue, setTextValue] = useState('');
   const [passwordValue, setPasswordValue] = useState('');
