@@ -21,12 +21,16 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Input error**  
-![Input error](screenshots/input-error.png)
+![Input error](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/input-error.png)
 
 - **Password input (toggle visibility)**  
-![Password input](screenshots/input-password.png)
+![Password input](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/input-password.png)
 
 ---
+
+
+
+
 
 ## 2. Toast
 
@@ -38,10 +42,11 @@ http://localhost:6006
 **Скріншоти:**
 
 - **All Toasts**  
-![All Toasts](screenshots/toasts-all.png)
+![All Toasts](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toasts-all.png)
+
 
 - **Closable toast**  
-![Closable toast](screenshots/toast-closable.png)
+![Closable toast](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toast-closable.png)
 
 ---
 
@@ -54,10 +59,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Sidebar opened nested**  
-![Sidebar opened nested](screenshots/sidebar-opened-nest.png)
+![Sidebar opened nested](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/sidebar-opened-nest.png)
 
 - **Sidebar opened 1lvl**  
-![Sidebar opened 1lvl](screenshots/sidebar-opened-firstLvl.png)
+![Sidebar opened 1lvl](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/sidebar-opened-firstLvl.png)
 
 
 
