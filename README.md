@@ -28,9 +28,9 @@ http://localhost:6006
 
 Скріншоти:
 - **Input error**  
-  ![Input Text](/screenshots/input-error.png)  
+  ![Input Text](screenshots/input-error.png)  
 - **Password input (toggle visibility)**  
-  ![Input password](/screenshots/input-password.png)  
+  ![Input password](screenshots/input-password.png)  
 
 2. Toast
 
