@@ -51,7 +51,7 @@ http://localhost:6006
 />;
 ```
 
-**Скріншоти:**
+
 - **All Toasts**  
 ![All Toasts](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toasts-all.png)
 
@@ -80,7 +80,6 @@ const menuItems = [
 />;
 ```
 
-**Скріншоти:**
 - **Sidebar opened nested**  
 ![Sidebar opened nested](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/sidebar-opened-nest.png)
 
@@ -90,11 +89,7 @@ const menuItems = [
 
 
  
-📖 Документація
-
-Всі компоненти документовані у Storybook. Після запуску npm run storybook відкрийте http://localhost:6006
- для перегляду компонентів, пропсів та прикладів.
-
+ 
 💡 Поради
 
 Використовуйте Storybook для швидкого прототипування UI.
