@@ -21,10 +21,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Input error**  
-![Input error](./screenshots/input-error.png)
+![Input error](screenshots/input-error.png)
 
 - **Password input (toggle visibility)**  
-![Password input](./screenshots/input-password.png)
+![Password input](screenshots/input-password.png)
 
 ---
 
@@ -38,10 +38,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **All Toasts**  
-![All Toasts](./screenshots/toasts-all.png)
+![All Toasts](screenshots/toasts-all.png)
 
 - **Closable toast**  
-![Closable toast](./screenshots/toast-closable.png)
+![Closable toast](screenshots/toast-closable.png)
 
 ---
 
@@ -54,10 +54,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Sidebar opened nested**  
-![Sidebar opened nested](./screenshots/sidebar-opened-nest.png)
+![Sidebar opened nested](screenshots/sidebar-opened-nest.png)
 
 - **Sidebar opened 1lvl**  
-![Sidebar opened 1lvl](./screenshots/sidebar-opened-firstLvl.png)
+![Sidebar opened 1lvl](screenshots/sidebar-opened-firstLvl.png)
 
 
 
