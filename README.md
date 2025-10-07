@@ -21,6 +21,18 @@ http://localhost:6006
 **Скріншоти:**
 
 ## 1. Input
+import { Input } from "./components/Input";
+
+ A versatile input component with multiple types and optional features like password toggle and clearable input.
+ 
+Usage:
+```<Input
+  type="text"
+  placeholder="Enter text"
+  clearable
+  showPasswordToggle
+    />;
+```
 **Скріншоти:**
 - **Input error**  
 ![Input error](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/input-error.png)
@@ -35,6 +47,19 @@ http://localhost:6006
 
 
 ## 2. Toast
+A notification component with smooth animations, auto-dismiss, and flexible positioning.
+
+Usage:
+import { Toast } from "./components/Toast";
+
+```<Toast
+  type="success"
+  title="Success!"
+  message="Operation completed successfully"
+  duration={3000}
+/>;
+```
+
 **Скріншоти:**
 - **All Toasts**  
 ![All Toasts](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toasts-all.png)
@@ -46,6 +71,24 @@ http://localhost:6006
 ---
 
 ## 3. Sidebar Menu
+A sliding sidebar menu with nested navigation and responsive design.
+
+Usage:
+```
+import { SidebarMenu } from "./components/SidebarMenu";
+
+const menuItems = [
+  { id: "home", label: "Home" },
+  { id: "settings", label: "Settings" },
+];
+
+<SidebarMenu
+  isOpen={true}
+  onClose={() => console.log("Closed")}
+  items={menuItems}
+/>;
+```
+
 **Скріншоти:**
 - **Sidebar opened nested**  
 ![Sidebar opened nested](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/sidebar-opened-nest.png)
