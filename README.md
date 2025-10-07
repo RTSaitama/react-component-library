@@ -16,7 +16,7 @@ npm run storybook
 
 http://localhost:6006
 
- Компоненти:
+ - **Компоненти:**  
 
 
 1. Input
@@ -26,6 +26,12 @@ http://localhost:6006
 
 Для пароля: іконка toggle видимості
 
+Скріншоти:
+- **Input error**  
+  ![Input Text](public/screenshots/input-error.png)  
+- **Password input (toggle visibility)**  
+  ![Input password](public/screenshots/input-password.png)  
+
 2. Toast
 
 Типи: success, danger, info, warning
@@ -33,6 +39,14 @@ http://localhost:6006
 Автовидалення через duration
 
 Можливість закриття вручну (closable)
+
+Скріншоти:
+- **All Toasts**  
+  ![All Toasts](public/screenshots/toasts-all.png)  
+- **Closable toast **  
+  ![Closable toast](public/screenshots/toast-closable.png)  
+
+
 
 3. Sidebar Menu
 
@@ -42,4 +56,10 @@ Open / Closed стани
 
 Закривається при кліку на бекграунд
 
- 
+Скріншоти:
+- **Sidebar opened nested**  
+  ![Sidebar nested](public/screenshots/sidebar-opened-nest.png)  
+- **Sidebar opened 1lvl **  
+  ![Sidebar opened 1lvl](public/screenshots/sidebar-opened-firstLvl.png)  
+
+
