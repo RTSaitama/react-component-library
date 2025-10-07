@@ -2,64 +2,65 @@
 
 Це Storybook-базована бібліотека UI-компонентів для React.
 
-##  Запуск
+## Запуск
 
 1. Встановити залежності:
 ```bash
 npm install
-
-2. Запустити Storybook:
-
 npm run storybook
-
-3. Відкрити у браузері:
-
+Відкрити у браузері:
 http://localhost:6006
 
- - **Компоненти:**  
+# Компоненти
 
+## 1. Input
 
-1. Input
-Типи 
+Типи: text, password, number
 
-Можливість очищення (clearable)
+- Можливість очищення (clearable)  
+- Для пароля: іконка toggle видимості
 
-Для пароля: іконка toggle видимості
+**Скріншоти:**
 
-Скріншоти:
 - **Input error**  
-  ![Input Text](./screenshots/input-error.png)  
-- **Password input (toggle visibility)**  
-  ![Input password](./screenshots/input-password.png)  
+![Input error](./screenshots/input-error.png)
 
-2. Toast
+- **Password input (toggle visibility)**  
+![Password input](./screenshots/input-password.png)
+
+---
+
+## 2. Toast
 
 Типи: success, danger, info, warning
 
-Автовидалення через duration
+- Автовидалення через `duration`  
+- Можливість закриття вручну (closable)
 
-Можливість закриття вручну (closable)
+**Скріншоти:**
 
-Скріншоти:
 - **All Toasts**  
-  ![All Toasts](./screenshots/toasts-all.png)  
-- **Closable toast **  
-  ![Closable toast](./screenshots/toast-closable.png)  
+![All Toasts](./screenshots/toasts-all.png)
 
+- **Closable toast**  
+![Closable toast](./screenshots/toast-closable.png)
 
+---
 
-3. Sidebar Menu
+## 3. Sidebar Menu
 
-Open / Closed стани
+- Open / Closed стани  
+- Підменю 1 рівня і 2 рівня  
+- Закривається при кліку на бекграунд
 
-Підменю 1 рівня і 2 рівня
+**Скріншоти:**
 
-Закривається при кліку на бекграунд
-
-Скріншоти:
 - **Sidebar opened nested**  
-  ![Sidebar nested](./screenshots/sidebar-opened-nest.png)  
-- **Sidebar opened 1lvl **  
-  ![Sidebar opened 1lvl](./screenshots/sidebar-opened-firstLvl.png)  
+![Sidebar opened nested](./screenshots/sidebar-opened-nest.png)
+
+- **Sidebar opened 1lvl**  
+![Sidebar opened 1lvl](./screenshots/sidebar-opened-firstLvl.png)
 
 
+
+ 
