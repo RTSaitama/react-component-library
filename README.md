@@ -20,6 +20,8 @@ http://localhost:6006
 
 **Скріншоти:**
 
+## 1. Input
+**Скріншоти:**
 - **Input error**  
 ![Input error](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/input-error.png)
 
@@ -33,14 +35,7 @@ http://localhost:6006
 
 
 ## 2. Toast
-
-Типи: success, danger, info, warning
-
-- Автовидалення через `duration`  
-- Можливість закриття вручну (closable)
-
 **Скріншоти:**
-
 - **All Toasts**  
 ![All Toasts](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/toasts-all.png)
 
@@ -51,13 +46,7 @@ http://localhost:6006
 ---
 
 ## 3. Sidebar Menu
-
-- Open / Closed стани  
-- Підменю 1 рівня і 2 рівня  
-- Закривається при кліку на бекграунд
-
 **Скріншоти:**
-
 - **Sidebar opened nested**  
 ![Sidebar opened nested](https://github.com/RTSaitama/react-component-library/raw/main/screenshots/sidebar-opened-nest.png)
 
