@@ -23,10 +23,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Input error**  
-![Input error](./screenshots/input-error.png)
+![Input error](screenshots/input-error.png)
 
 - **Password input (toggle visibility)**  
-![Password input](./screenshots/input-password.png)
+![Password input](screenshots/input-password.png)
 
 ---
 
@@ -40,10 +40,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **All Toasts**  
-![All Toasts](./screenshots/toasts-all.png)
+![All Toasts](/screenshots/toasts-all.png)
 
 - **Closable toast**  
-![Closable toast](./screenshots/toast-closable.png)
+![Closable toast](/screenshots/toast-closable.png)
 
 ---
 
