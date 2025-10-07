@@ -3,9 +3,7 @@
 Це Storybook-базована бібліотека UI-компонентів для React.
 
 ## Запуск
-
-1. Встановити залежності:
-```bash
+Встановити залежності:bash
 npm install
 npm run storybook
 Відкрити у браузері:
@@ -56,10 +54,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Sidebar opened nested**  
-![Sidebar opened nested](./screenshots/sidebar-opened-nest.png)
+![Sidebar opened nested](/screenshots/sidebar-opened-nest.png)
 
 - **Sidebar opened 1lvl**  
-![Sidebar opened 1lvl](./screenshots/sidebar-opened-firstLvl.png)
+![Sidebar opened 1lvl](/screenshots/sidebar-opened-firstLvl.png)
 
 
 
