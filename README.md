@@ -17,15 +17,8 @@ http://localhost:6006
 
 - Можливість очищення (clearable)  
 - Для пароля: іконка toggle видимості
-
-**Скріншоти:**
-
-## 1. Input
-import { Input } from "./components/Input";
-
- A versatile input component with multiple types and optional features like password toggle and clearable input.
  
-Usage:
+Приклад використання:
 ```<Input
   type="text"
   placeholder="Enter text"
@@ -47,11 +40,9 @@ Usage:
 
 
 ## 2. Toast
-A notification component with smooth animations, auto-dismiss, and flexible positioning.
+Компонент сповіщень з анімаціями, авто-зникненням та гнучким позиціонуванням.
 
-Usage:
-import { Toast } from "./components/Toast";
-
+Приклад використання:
 ```<Toast
   type="success"
   title="Success!"
@@ -71,9 +62,9 @@ import { Toast } from "./components/Toast";
 ---
 
 ## 3. Sidebar Menu
-A sliding sidebar menu with nested navigation and responsive design.
+Слайдова бокова панель з вкладеними пунктами та адаптивним дизайном.
 
-Usage:
+Приклад використання:
 ```
 import { SidebarMenu } from "./components/SidebarMenu";
 
