@@ -54,10 +54,10 @@ http://localhost:6006
 **Скріншоти:**
 
 - **Sidebar opened nested**  
-![Sidebar opened nested](/screenshots/sidebar-opened-nest.png)
+![Sidebar opened nested](./screenshots/sidebar-opened-nest.png)
 
 - **Sidebar opened 1lvl**  
-![Sidebar opened 1lvl](/screenshots/sidebar-opened-firstLvl.png)
+![Sidebar opened 1lvl](./screenshots/sidebar-opened-firstLvl.png)
 
 
 
