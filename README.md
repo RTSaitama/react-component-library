@@ -28,9 +28,9 @@ http://localhost:6006
 
 Скріншоти:
 - **Input error**  
-  ![Input Text](public/screenshots/input-error.png)  
+  ![Input Text](/screenshots/input-error.png)  
 - **Password input (toggle visibility)**  
-  ![Input password](public/screenshots/input-password.png)  
+  ![Input password](/screenshots/input-password.png)  
 
 2. Toast
 
@@ -42,9 +42,9 @@ http://localhost:6006
 
 Скріншоти:
 - **All Toasts**  
-  ![All Toasts](public/screenshots/toasts-all.png)  
+  ![All Toasts](screenshots/toasts-all.png)  
 - **Closable toast **  
-  ![Closable toast](public/screenshots/toast-closable.png)  
+  ![Closable toast](screenshots/toast-closable.png)  
 
 
 
@@ -58,8 +58,8 @@ Open / Closed стани
 
 Скріншоти:
 - **Sidebar opened nested**  
-  ![Sidebar nested](public/screenshots/sidebar-opened-nest.png)  
+  ![Sidebar nested](screenshots/sidebar-opened-nest.png)  
 - **Sidebar opened 1lvl **  
-  ![Sidebar opened 1lvl](public/screenshots/sidebar-opened-firstLvl.png)  
+  ![Sidebar opened 1lvl](screenshots/sidebar-opened-firstLvl.png)  
 
 
