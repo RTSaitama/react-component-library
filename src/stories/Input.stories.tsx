@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/nextjs';
 import { useState } from 'react';
-import { Input } from './Input';
-import { InputProps } from './Input';
+import { Input } from '../components/Input/Input';
+import { InputProps } from '../components/Input/Input';
 
 const meta: Meta<typeof Input> = {
   title: 'Components/Input',

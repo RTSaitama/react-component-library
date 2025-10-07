@@ -1,6 +1,6 @@
  import React, { useState } from 'react';
 import type { Meta, StoryObj } from '@storybook/nextjs';
-import { Sidebar, SidebarProps } from './Sidebar';
+import { Sidebar, SidebarProps } from '../components/Sidebar/Sidebar';
 
 const meta: Meta<typeof Sidebar> = {
   title: 'Components/Sidebar',
